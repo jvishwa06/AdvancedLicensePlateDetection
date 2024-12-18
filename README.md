@@ -59,8 +59,8 @@ Key features include:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/jvishwa06/AutomaticLicensePlateDetector.git
-    cd AutomaticLicensePlateDetector
+    git clone https://github.com/jvishwa06/LISENCEPLATE-DETECTION.git
+    cd LISENCEPLATE-DETECTION
     ```
 
 2. Navigate to the root directory and build the Docker container:
